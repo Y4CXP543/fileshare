@@ -1,1 +1,246 @@
-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
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>3.2.1</version>
+    </parent>
+
+    <groupId>ru.yacopsae</groupId>
+    <artifactId>fileshare</artifactId>
+    <version>1.0.13</version>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <spring-cloud.version>2023.0.0</spring-cloud.version>
+        <grpc.version>1.61.0</grpc.version>
+    </properties>
+
+    <dependencyManagement>
+        <dependencies>
+            <dependency>
+                <groupId>io.grpc</groupId>
+                <artifactId>grpc-bom</artifactId>
+                <version>${grpc.version}</version>
+                <scope>import</scope>
+                <type>pom</type>
+            </dependency>
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dependencies</artifactId>
+                <version>${spring-cloud.version}</version>
+                <type>pom</type>
+                <scope>import</scope>
+            </dependency>
+        </dependencies>
+    </dependencyManagement>
+
+    <dependencies>
+        <!-- SPRING BOOT -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-jpa</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-config</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+        </dependency>
+
+        <!-- GRPC -->
+        <dependency>
+            <groupId>net.devh</groupId>
+            <artifactId>grpc-server-spring-boot-starter</artifactId>
+            <version>2.15.0.RELEASE</version>
+        </dependency>
+        <dependency>
+            <groupId>ru.yacopsae</groupId>
+            <artifactId>fileshare-grpc</artifactId>
+            <version>0.0.1</version>
+        </dependency>
+        <dependency>
+            <groupId>io.grpc</groupId>
+            <artifactId>grpc-netty</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.grpc</groupId>
+            <artifactId>grpc-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.grpc</groupId>
+            <artifactId>grpc-protobuf</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.grpc</groupId>
+            <artifactId>grpc-stub</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.grpc</groupId>
+            <artifactId>grpc-testing</artifactId>
+        </dependency>
+
+        <!-- MONITORING -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-actuator</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.micrometer</groupId>
+            <artifactId>micrometer-registry-prometheus</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+
+        <!-- DATABASE -->
+        <dependency>
+            <groupId>org.liquibase</groupId>
+            <artifactId>liquibase-core</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.postgresql</groupId>
+            <artifactId>postgresql</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+
+        <!-- UTILITY -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <scope>compile</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.overviewproject</groupId>
+            <artifactId>mime-types</artifactId>
+            <version>2.0.0</version>
+        </dependency>
+
+
+        <!-- logs -->
+        <dependency>
+            <groupId>ch.qos.logback</groupId>
+            <artifactId>logback-classic</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.github.loki4j</groupId>
+            <artifactId>loki-logback-appender</artifactId>
+            <version>1.5.1</version>
+        </dependency>
+
+        <!-- TESTS -->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-test</artifactId>
+            <scope>test</scope>
+        </dependency>
+
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.springframework.boot</groupId>
+                <artifactId>spring-boot-maven-plugin</artifactId>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-dependency-plugin</artifactId>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-resources-plugin</artifactId>
+            </plugin>
+
+            <plugin>
+                <groupId>com.google.cloud.tools</groupId>
+                <artifactId>jib-maven-plugin</artifactId>
+                <version>3.4.0</version>
+                <configuration>
+                    <allowInsecureRegistries>true</allowInsecureRegistries>
+                    <from>
+                        <image>${env.DOCKER_REGISTRY}/yacopsae/java:17-ea-31-slim-buster</image>
+                    </from>
+                    <to>
+                        <auth>
+                            <username>${env.DOCKER_REGISTRY_USER}</username>
+                            <password>${env.DOCKER_REGISTRY_PASSWORD}</password>
+                        </auth>
+                        <image>${env.DOCKER_REGISTRY}/yacopsae/${project.artifactId}:${project.version}</image>
+                        <tags>
+                            <tag>${project.version}</tag>
+                            <tag>latest</tag>
+                        </tags>
+                    </to>
+                    <container>
+                        <jvmFlags>
+                            <jvmFlag>-agentlib:jdwp=transport=dt_socket,server=y,suspend=n,address=*:${filesharing.debug.port}"</jvmFlag>
+                        </jvmFlags>
+                    </container>
+                </configuration>
+            </plugin>
+
+            <plugin>
+                <groupId>yacopsae</groupId>
+                <artifactId>config-server-fetcher</artifactId>
+                <version>1.0.0</version>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>fetch-secrets</goal>
+                        </goals>
+                        <phase>generate-resources</phase>
+                    </execution>
+                </executions>
+                <configuration>
+                    <debug>true</debug>
+                    <profiles>
+                        <profile>default</profile>
+                        <profile>release</profile>
+                    </profiles>
+                    <server>
+                        <schema>http</schema>
+                        <host>192.168.100.49</host>
+                        <port>8888</port>
+                        <postfix>/config</postfix>
+                    </server>
+                </configuration>
+            </plugin>
+        </plugins>
+
+        <resources>
+            <resource>
+                <filtering>false</filtering>
+                <directory>src/main/resources</directory>
+                <includes>
+                    <include>**/*</include>
+                </includes>
+                <excludes>
+                    <exclude>docker_run.sh</exclude>
+                </excludes>
+            </resource>
+            <resource>
+                <filtering>true</filtering>
+                <directory>src/main/resources</directory>
+                <targetPath>${build.directory}</targetPath>
+                <includes>
+                    <include>docker_run.sh</include>
+                </includes>
+            </resource>
+        </resources>
+    </build>
+
+</project>
